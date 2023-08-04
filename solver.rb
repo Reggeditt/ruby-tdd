@@ -10,7 +10,7 @@ describe Solver do
 
     it 'returns the correct factorial for positive integers' do
       expect(solver.factorial(5)).to eq(120)
-      expect(solver.factorial(10)).to eq(3628800)
+      expect(solver.factorial(10)).to eq(3_628_800)
     end
 
     it 'raises an exception for negative integers' do
