@@ -117,7 +117,7 @@ Contributions, issues, and feature requests are welcome!
 5. Open a Pull Request
 
 
-Feel free to check the [issues page](../issues).
+Feel free to check the [issues page](https://github.com/Reggeditt/ruby-tdd/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
